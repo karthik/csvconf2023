@@ -1,4 +1,4 @@
-# How to Grow a Sustainable Open Source Ecosystem
+# How to enable and sustain thriving Open Source Ecosystems (OSE)
 
 [![](https://i.imgur.com/VjeqIqr.jpg)](https://inundata.org/talks/csvconf/)
 
