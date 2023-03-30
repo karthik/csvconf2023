@@ -1,6 +1,6 @@
 # How to Grow a Sustainable Open Source Ecosystem
 
-![](https://placebear.com/600/400)
+[![](https://i.imgur.com/VjeqIqr.jpg)](https://inundata.org/talks/csvconf/)
 
 
 ## Abstract
@@ -8,3 +8,4 @@
 
 ## Resources
 
+- Transitive Credit as a Means to Address Social and Technological Concerns Stemming from Citation and Attribution of Digital Products. Dan Katz and Arfon Smith -  https://openresearchsoftware.metajnl.com/articles/10.5334/jors.be
