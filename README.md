@@ -2,8 +2,10 @@
 
 [![](https://i.imgur.com/VjeqIqr.jpg)](https://inundata.org/talks/csvconf/)
 
-
+*Slides from a keynote presentation at CSV Conf 2023 in Buenos Aires, Argentina*
 ## Abstract
+
+Software impacts virtually all areas of research but has been an heavily undervalued contribution. Over the past decade alone, the research software landscape has changed dramatically. It is now substantially easier to start new software projects, find a friendly community of practice, and technical resources. The research software engineer career track has also taken off and made life easier for many individuals. However, several key challenges remain. Despite the growing recognition of research software, it is still challenging to demonstrate impact or find support for the maintenance of existing software. In this talk I describe some ideas on how to uncover software that is driving research and construct knowledge graphs to ask questions about software use and sustainability. I also describe the various conditions necessary to turn software projects from emerging ideas to sustainable ecosystems.
 
 
 ## Resources
@@ -26,3 +28,8 @@
 	- [CRAN to Git](https://ropensci.org/blog/2023/04/03/cran-to-git/): How to use r-universe to search across package ecosystems.
 - [CSCCE community participation model](https://www.cscce.org/resources/cpm/)
 - [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change) We adapted this in a paper about [data sharing](https://www.sciencedirect.com/science/article/pii/S2666389921002300)  
+
+## Questions
+
+Questions or clarifications welcome at karthik dot ram at gmail.
+
