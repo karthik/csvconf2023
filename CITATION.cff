@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: >-
+  How to enable and sustain thriving Open Source Ecosystems
+  (OSE)
+message: >-
+  If you reference this talk, please cite it using the metadata
+  from this file.
+type: talk
+authors:
+  - given-names: Karthik
+    family-names: Ram
+    email: karthik.ram@berkeley.edu
+    affiliation: 'University of California, Berkeley'
+    orcid: 'https://orcid.org/0000-0002-0233-1757'
+identifiers:
+  - type: doi
+    value: TBD
+    description: Archived copy of my keynote talk from CSV Conf 2023 in Buenos Aires
+keywords:
+  - software sustainability
+  - research software
+  - open-source
+license: CC-BY-4.0
+date-released: '2023-04-17'
