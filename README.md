@@ -2,7 +2,7 @@
 
 [![](https://i.imgur.com/VjeqIqr.jpg)](https://inundata.org/talks/csvconf/)
 
-*Slides from a keynote presentation at CSV Conf 2023 in Buenos Aires, Argentina*
+*Slides from a keynote presentation at [CSV Conf 2023](https://csvconf.com/) in Buenos Aires, Argentina. April 19th, 2023*
 ## Abstract
 
 Software impacts virtually all areas of research but has been an heavily undervalued contribution. Over the past decade alone, the research software landscape has changed dramatically. It is now substantially easier to start new software projects, find a friendly community of practice, and technical resources. The research software engineer career track has also taken off and made life easier for many individuals. However, several key challenges remain. Despite the growing recognition of research software, it is still challenging to demonstrate impact or find support for the maintenance of existing software. In this talk I describe some ideas on how to uncover software that is driving research and construct knowledge graphs to ask questions about software use and sustainability. I also describe the various conditions necessary to turn nascent software projects into self sustainable ecosystems.
@@ -20,7 +20,7 @@ Software impacts virtually all areas of research but has been an heavily underva
 - [Mining Software Entities in Scientific Literature: Document-level NER for an Extremely Imbalance and Large-scale Task](https://dl.acm.org/doi/abs/10.1145/3459637.3481936) Patrice Lopez, Caifan Du, Johanna Cohoon, Karthik Ram, James Howison  
 - [Pathways Enabling Open Source Ecosystems training program](https://pose.training/) part of the NSF’s TIP directorate [POSE program](https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose)      
 - [Software Sustainability: Research and Practice from a
-Software Architecture Viewpoint](https://eprints.hud.ac.uk/id/eprint/33972/1/1-s2.0-S0164121217303072-main.pdf) (PDF)   
+Software Architecture Viewpoint](https://eprints.hud.ac.uk/id/eprint/33972/1/1-s2.0-S0164121217303072-main.pdf) (PDF   
 - [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/working-in-public) 📙      
 	- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) *This is an older report and has some of the ideas from the book in case you can’t get a hold of that one* 
 - [CHAOSS Community](https://chaoss.community/) *stands for Community Health Analysis for Open-Source Software.*
