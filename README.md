@@ -18,7 +18,7 @@ Software impacts virtually all areas of research but has been an heavily underva
 ![](https://i.imgur.com/hIzjbUo.png)   
 - [Softcite dataset: A dataset of software mentions in biomedical and economic research publications](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24454) Caifan Du, Johanna Cohoon, Patrice Lopez, James Howison   
 - [Mining Software Entities in Scientific Literature: Document-level NER for an Extremely Imbalance and Large-scale Task](https://dl.acm.org/doi/abs/10.1145/3459637.3481936) Patrice Lopez, Caifan Du, Johanna Cohoon, Karthik Ram, James Howison  
-- [Pathways Enabling Open Source Ecosystems training program](https://pose.training/)   
+- [Pathways Enabling Open Source Ecosystems training program](https://pose.training/) part of the NSF’s TIP directorate [POSE program](https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose)      
 - [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/working-in-public) 📙      
 	- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) *This is an older report and has some of the ideas from the book in case you can’t get a hold of that one* 
 - [CHAOSS Community](https://chaoss.community/) *stands for Community Health Analysis for Open-Source Software.*
