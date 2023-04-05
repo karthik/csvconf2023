@@ -22,17 +22,23 @@ Software impacts virtually all areas of research but has been an heavily underva
 - [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/working-in-public)    
 	- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) *This is an older report and has some of the ideas from the book in case you can’t get a hold of that one* 
 - [CHAOSS Community](https://chaoss.community/) *stands for Community Health Analysis for Open-Source Software.*
-- [rOpenSci Project](https://ropensci.org/)  
+- Various links from [The rOpenSci Project](https://ropensci.org/)  
 	- [Thanking Your Reviewers: Gratitude through Semantic Metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/)    
 	- [rOpenSci Dev Guide](https://devguide.ropensci.org/)
 	- [rOpenSci Champions Program](https://ropensci.org/champions/)  
 	- [rOpenSci Review Tools](https://github.com/ropensci-review-tools)   
-- [r Universe](https://r-universe.dev/search/)
+- [r-universe](https://r-universe.dev/search/)
 	- [CRAN to Git](https://ropensci.org/blog/2023/04/03/cran-to-git/): How to use r-universe to search across package ecosystems.
 - [CSCCE community participation model](https://www.cscce.org/resources/cpm/) *They also run a Community Engagement Fundamentals course designed for STEM community managers*
 - [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change) *We adapted this concept in a paper about [data sharing](https://www.sciencedirect.com/science/article/pii/S2666389921002300)*. Here’s a [direct link](https://ars.els-cdn.com/content/image/1-s2.0-S2666389921002300-gr1_lrg.jpg) to our figure.
 
+### How to cite this talk
+
+```
+Citation pending
+```
+
 ## Questions
 
-Questions or clarifications welcome at karthik dot ram at gmail.
+Questions or comments welcome at karthik dot ram at gmail.
 
