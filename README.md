@@ -24,6 +24,8 @@ Software impacts virtually all areas of research but has been an heavily underva
 - [rOpenSci Project](https://ropensci.org/)  
 	- [Thanking Your Reviewers: Gratitude through Semantic Metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/)    
 	- [rOpenSci Dev Guide](https://devguide.ropensci.org/)
+	- [rOpenSci Champions Program](https://ropensci.org/champions/)  
+	- [rOpenSci Review Tools](https://github.com/ropensci-review-tools)   
 - [r Universe](https://r-universe.dev/search/)
 	- [CRAN to Git](https://ropensci.org/blog/2023/04/03/cran-to-git/): How to use r-universe to search across package ecosystems.
 - [CSCCE community participation model](https://www.cscce.org/resources/cpm/) *They also run a Community Engagement Fundamentals course designed for STEM community managers*
