@@ -32,11 +32,15 @@ Software impacts virtually all areas of research but has been an heavily underva
 - [CSCCE community participation model](https://www.cscce.org/resources/cpm/) *They also run a Community Engagement Fundamentals course designed for STEM community managers*
 - [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change) *We adapted this concept in a paper about [data sharing](https://www.sciencedirect.com/science/article/pii/S2666389921002300)*. Here’s a [direct link](https://ars.els-cdn.com/content/image/1-s2.0-S2666389921002300-gr1_lrg.jpg) to our figure.
 
-### How to cite this talk
+## How to cite this talk
 
 ```
 Citation pending
 ```
+
+## Acknowledgements
+
+This talk was greatly improved by discussions with Arfon Smith, James Howison, Patrice Lopez, and Abby Cabunoc Mayes. 
 
 ## Questions
 
