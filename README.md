@@ -29,7 +29,7 @@ Software impacts virtually all areas of research but has been an heavily underva
 - [r Universe](https://r-universe.dev/search/)
 	- [CRAN to Git](https://ropensci.org/blog/2023/04/03/cran-to-git/): How to use r-universe to search across package ecosystems.
 - [CSCCE community participation model](https://www.cscce.org/resources/cpm/) *They also run a Community Engagement Fundamentals course designed for STEM community managers*
-- [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change) *We adapted this concept in a paper about [data sharing](https://www.sciencedirect.com/science/article/pii/S2666389921002300)  *
+- [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change) *We adapted this concept in a paper about [data sharing](https://www.sciencedirect.com/science/article/pii/S2666389921002300)*
 
 ## Questions
 
