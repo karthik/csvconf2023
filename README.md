@@ -21,7 +21,7 @@ Software impacts virtually all areas of research but has been an heavily underva
 - [Pathways Enabling Open Source Ecosystems training program](https://pose.training/) part of the NSF’s TIP directorate [POSE program](https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose)      
 - [Software Sustainability: Research and Practice from a
 Software Architecture Viewpoint](https://eprints.hud.ac.uk/id/eprint/33972/1/1-s2.0-S0164121217303072-main.pdf) (PDF)
-- [Report: Sustainability in Research-Driven Open Source Software](https://www.codeforsociety.org/resources/report-sustainability-in-research-driven-open-source-software)   
+- [Report: Sustainability in Research-Driven Open Source Software](https://www.codeforsociety.org/resources/report-sustainability-in-research-driven-open-source-software) - Danielle Robinson and Joe Hand      
 - Perry Greenfield’s PyData Keynote on [How Python Found its way Into Astronomy](https://www.youtube.com/watch?v=uz53IV1V_Xo&t=11s) covers some of the transition from IRAF → AstroPy      
 - [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/working-in-public) 📙      
 	- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) *This is an older report and has some of the ideas from the book in case you can’t get a hold of that one* 
