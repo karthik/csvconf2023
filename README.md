@@ -31,7 +31,7 @@ Software Architecture Viewpoint](https://eprints.hud.ac.uk/id/eprint/33972/1/1-s
 	- [rOpenSci Review Tools](https://github.com/ropensci-review-tools)   
 - [r-universe](https://r-universe.dev/search/)
 	- [CRAN to Git](https://ropensci.org/blog/2023/04/03/cran-to-git/): How to use r-universe to search across package ecosystems.
-- [CSCCE community participation model](https://www.cscce.org/resources/cpm/) *They also run a Community Engagement Fundamentals course designed for STEM community managers*
+- [CSCCE community participation model](https://www.cscce.org/resources/cpm/) *They also run a [Community Engagement Fundamentals course](https://www.cscce.org/trainings/cef/) designed for STEM community managers*
 - [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change) *We adapted this concept in a paper about [data sharing](https://www.sciencedirect.com/science/article/pii/S2666389921002300)*. Here’s a [direct link](https://ars.els-cdn.com/content/image/1-s2.0-S2666389921002300-gr1_lrg.jpg) to our figure.
 
 ## How to cite this talk
