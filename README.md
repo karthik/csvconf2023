@@ -1,6 +1,6 @@
 # How to enable and sustain thriving Open Source Ecosystems (OSE)
 
-[![](https://i.imgur.com/VjeqIqr.jpg)](https://inundata.org/talks/csvconf/)
+[![](https://i.imgur.com/VjeqIqr.jpg)](https://inundata.org/talks/csvconf/#/0/3)
 
 *Slides from a keynote presentation at [CSV Conf 2023](https://csvconf.com/) in Buenos Aires, Argentina. April 19th, 2023*
 ## Abstract
@@ -35,6 +35,7 @@ Software Architecture Viewpoint](https://eprints.hud.ac.uk/id/eprint/33972/1/1-s
 	- [CRAN to Git](https://ropensci.org/blog/2023/04/03/cran-to-git/): How to use r-universe to search across package ecosystems.
 - [CSCCE community participation model](https://www.cscce.org/resources/cpm/) *They also run a [Community Engagement Fundamentals course](https://www.cscce.org/trainings/cef/) designed for STEM community managers*
 - [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change) *We adapted this concept in a paper about [data sharing](https://www.sciencedirect.com/science/article/pii/S2666389921002300)*. Here’s a [direct link](https://ars.els-cdn.com/content/image/1-s2.0-S2666389921002300-gr1_lrg.jpg) to our figure.
+- On the topic of software being retired, here is a series of posts ([part 1](https://r-spatial.org/r/2022/04/12/evolution.html), [part 2](https://r-spatial.org/r/2022/12/14/evolution2.html), [part 3](https://r-spatial.org/r/2023/04/10/evolution3.html)) about rgdal and other tools in the R spatial suite being retired in fall 2023 because the core maintainer is retiring and the stack has been replaced by something better.
 
 ## How to cite this talk
 
