@@ -12,7 +12,7 @@ Software impacts virtually all areas of research but has been an heavily underva
 
 - [The Journal of Open Source Software](https://joss.theoj.org/)   
 	* Paper about the design of The Journal of Open Source Software (JOSS): [Journal of Open Source Software (JOSS): design and first-year review](https://peerj.com/articles/cs-147/)
-- [Software Bill of Materials](https://www.cisa.gov/sbom)
+- [Software Bill of Materials](https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom/)
 - [Transitive Credit as a Means to Address Social and Technological Concerns Stemming from Citation and Attribution of Digital Products](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.be) Dan Katz and Arfon Smith
 - Grobid, https://grobid.readthedocs.io/en/latest/Principles/
 ![](https://i.imgur.com/hIzjbUo.png)   
