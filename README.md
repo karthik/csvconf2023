@@ -45,7 +45,7 @@ Ram, Karthik. (2023, April 12). How to enable and sustain thriving Open Source E
 
 ## Acknowledgements
 
-This talk was greatly improved by discussions with Arfon Smith, James Howison, Patrice Lopez, and Abby Cabunoc Mayes. 
+This talk was greatly improved by discussions with Arfon Smith, James Howison, Sean Goggins, Patrice Lopez, and Abby Cabunoc Mayes. 
 
 ## Questions
 
