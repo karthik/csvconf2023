@@ -14,11 +14,11 @@ authors:
     orcid: 'https://orcid.org/0000-0002-0233-1757'
 identifiers:
   - type: doi
-    value: TBD
+    value: 10.5281/zenodo. 7822001
     description: Archived copy of my keynote talk from CSV Conf 2023 in Buenos Aires
 keywords:
   - software sustainability
   - research software
   - open-source
 license: CC-BY-4.0
-date-released: '2023-04-17'
+date-released: '2023-04-12'
