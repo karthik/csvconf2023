@@ -40,7 +40,7 @@ Software Architecture Viewpoint](https://eprints.hud.ac.uk/id/eprint/33972/1/1-s
 ## How to cite this talk
 
 ```
-Ram, Karthik. (2023, April 12). How to enable and sustain thriving Open Source Ecosystems (OSE). Zenodo. https://doi.org/10.5281/zenodo.7822001
+Ram, Karthik. (2023, April 12). How to enable and sustain thriving Open Source Ecosystems (OSE). Zenodo. https://doi.org/10.5281/zenodo.7822917
 ```
 
 ## Acknowledgements
