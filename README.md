@@ -5,8 +5,26 @@
 *[Slides](https://inundata.org/talks/csvconf/#/0/3) from a keynote presentation at [CSV Conf 2023](https://csvconf.com/) in Buenos Aires, Argentina. April 19th, 2023*
 ## Abstract
 
-Software impacts virtually all areas of research but has been an heavily undervalued contribution. Over the past decade alone, the research software landscape has changed dramatically. It is now substantially easier to start new software projects, find a friendly community of practice, and technical resources. The research software engineer career track has also taken off and made life easier for many individuals. However, several key challenges remain. Despite the growing recognition of research software, it is still challenging to demonstrate impact or find support for the maintenance of existing software. In this talk I describe some ideas on how to uncover software that is driving research and construct knowledge graphs to ask questions about software use and sustainability. I also describe the various conditions necessary to turn nascent software projects into self sustainable ecosystems.
+Software impacts virtually all areas of research but has been a heavily undervalued contribution. Over the past decade alone, the research software landscape has changed dramatically. It is now substantially easier to start new software projects and find a friendly community of practice, and technical resources. The research software engineer career track has also taken off and made life easier for many individuals. However, several key challenges remain. Despite the growing recognition of research software, it is still challenging to demonstrate impact or find support for the maintenance of existing software. In this talk, I describe some ideas on how to uncover software that is driving research and construct knowledge graphs to ask questions about software use and sustainability. I also describe the various conditions necessary to turn nascent software projects into sustainable ecosystems.
 
+## Takeaways
+General takeaways
+- Since research software is poorly cited, so it’s hard to get a good picture of the software used in research. While software bills of materials are technically easy to generate and will provide a lot of value, they are not the norm in research or publishing.
+- One workaround is to extract scientific software entities from PDFs using tools like Grobid and the software mentions extractor. If carried out on a substantial collection of articles from a field where open source is widely used, it would be possible to ask all kinds of interesting questions like which software is driving research in a certain area, where the opportunities and challenges are, and how to use of tools is changing over time.
+- Many researchers write last mile ‘analysis code’ that never goes any further. Some of this code, especially the implementation of new methods, may see the light of day as ‘prototype software’. These are minimum viable prototypes, with a small test suite and documentation but not designed for speed or stability. A subset of prototypes that find product-market fit are the ones that enter the research software infrastructure space and need to be sustained. 
+- One way for software projects to raise their visibility is to align roadmaps with adjacent tools (adjacent in the sense of hard dependencies or usage-based dependencies). This would reduce friction, allow for resource sharing, and raise visibility as a collection of tools (eg. [spatial data science](https://r-spatial.org/book/))
+- Besides solving technical challenges by aligning with the local ecosystem, projects also need to be in alignment with the larger ecosystem (actors and institutions that enable the work).
+- The definitions of software sustainability are clear, but a broader definition I provide is that “Software is sustainable as long as the people behind it have the resources to continue fulfilling its mission”.
+- There are examples of widely used software that has run out of resources while dealing with an outdated stack. Rather than sustain those tools, the community can choose to replace them with something more modern and aligned with the needs of users (see the IRAF → Astropy example below). In other words, not everything needs to be sustained forever.
+- At POSE training, we have identified 5 core areas that are necessary to sustain an OSE. These are org structure (the managing org that can guide future growth), governance (robust decision-making and collaboration management), business perspectives (a good way to manage hidden infrastructure costs and resources, which includes funding), security (technical and non-technical threats), and community. 
+- Using Nadia Eghbal’s taxonomy (toy, club, federation & stadium), it would be a good exercise to categorize your project to see how best to engage your audience in meaningful ways. 
+- Once projects have found product-market fit, there is little in the way of long-term support (funding or otherwise). COPs can use tools like CHAOSS to surface certain types of issues (low maintainer growth, time to PR close as a way to engage new contributors) and address those before they become too big to tackle. 
+- Security issues are important. While we have not seen major security issues in scientific open source (compared to the larger OSS community), it is still important to stay on top of CVEs and use CI/CD more extensively. It would also be a good idea to keep an eye on non-technical threats, like bad actors, and poor governance.
+- If all else fails and a project needs to end, it must be done responsibly. This includes notifying all stakeholders (downstream dependencies, users, trainers), pointers to comparable alternatives, archiving all code to support reproducibility efforts, and providing enough lead time. 
+- The CTAs are:
+	- If you are a developer, find ways to align with your local ecosystem to coordinate roadmaps and resources, and raise your visibility
+	- If you’re a COP, find ways to support maintainer burnout, support governance templates, document managing org options etc.
+	- Lastly, folks operating at the level of an ecosystem (funders, trainers, infrastructure provides) can also pick and address several of these issues at scale. 
 
 ## Resources
 
@@ -48,5 +66,5 @@ This talk was greatly improved by discussions with Arfon Smith, James Howison, S
 
 ## Questions
 
-Questions or comments welcome at karthik dot ram at gmail.
+Questions or comments are welcome at karthik dot ram at gmail.
 
