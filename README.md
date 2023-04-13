@@ -2,7 +2,7 @@
 
 [![](https://i.imgur.com/VjeqIqr.jpg)](https://inundata.org/talks/csvconf/#/0/3)
 
-*Slides from a keynote presentation at [CSV Conf 2023](https://csvconf.com/) in Buenos Aires, Argentina. April 19th, 2023*
+*[Slides](https://inundata.org/talks/csvconf/#/0/3) from a keynote presentation at [CSV Conf 2023](https://csvconf.com/) in Buenos Aires, Argentina. April 19th, 2023*
 ## Abstract
 
 Software impacts virtually all areas of research but has been an heavily undervalued contribution. Over the past decade alone, the research software landscape has changed dramatically. It is now substantially easier to start new software projects, find a friendly community of practice, and technical resources. The research software engineer career track has also taken off and made life easier for many individuals. However, several key challenges remain. Despite the growing recognition of research software, it is still challenging to demonstrate impact or find support for the maintenance of existing software. In this talk I describe some ideas on how to uncover software that is driving research and construct knowledge graphs to ask questions about software use and sustainability. I also describe the various conditions necessary to turn nascent software projects into self sustainable ecosystems.
