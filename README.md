@@ -7,8 +7,8 @@
 
 Software impacts virtually all areas of research but has been a heavily undervalued contribution. Over the past decade alone, the research software landscape has changed dramatically. It is now substantially easier to start new software projects and find a friendly community of practice, and technical resources. The research software engineer career track has also taken off and made life easier for many individuals. However, several key challenges remain. Despite the growing recognition of research software, it is still challenging to demonstrate impact or find support for the maintenance of existing software. In this talk, I describe some ideas on how to uncover software that is driving research and construct knowledge graphs to ask questions about software use and sustainability. I also describe the various conditions necessary to turn nascent software projects into sustainable ecosystems.
 
-## Takeaways
-General takeaways
+## General takeaways 
+
 - Since research software is poorly cited, so it’s hard to get a good picture of the software used in research. While software bills of materials are technically easy to generate and will provide a lot of value, they are not the norm in research or publishing.
 - One workaround is to extract scientific software entities from PDFs using tools like Grobid and the software mentions extractor. If carried out on a substantial collection of articles from a field where open source is widely used, it would be possible to ask all kinds of interesting questions like which software is driving research in a certain area, where the opportunities and challenges are, and how to use of tools is changing over time.
 - Many researchers write last mile ‘analysis code’ that never goes any further. Some of this code, especially the implementation of new methods, may see the light of day as ‘prototype software’. These are minimum viable prototypes, with a small test suite and documentation but not designed for speed or stability. A subset of prototypes that find product-market fit are the ones that enter the research software infrastructure space and need to be sustained. 
