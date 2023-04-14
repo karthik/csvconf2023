@@ -24,7 +24,7 @@ Software impacts virtually all areas of research but has been a heavily underval
 - The calls to action are:
 	- If you are a developer, find ways to align with your local ecosystem to coordinate roadmaps and resources, and raise your visibility
 	- If you’re a COP, find ways to support maintainer burnout, support governance templates, document managing org options etc.
-	- Lastly, folks operating at the level of an ecosystem (funders, foundations, training partners, infrastructure providers) can also pick and address several of these issues at scale. 
+	- Lastly, folks operating at the level of an ecosystem (funders, foundations, training partners, infrastructure providers) can also pick and address one or more of these issues at scale. 
 
 ## Resources
 
