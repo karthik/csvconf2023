@@ -50,7 +50,6 @@ Software Architecture Viewpoint][hud] (PDF)
 	- [rOpenSci Review Tools][github]   
 - [r-universe][r-universe]
 	- [CRAN to Git][ropensci]: How to use r-universe to search across package ecosystems.
-- [CSCCE community participation model][cscce] *They also run a [Community Engagement Fundamentals course][cscce] designed for STEM community managers*
 - [Strategy for Culture Change][cos] *[Nicholas Tierney][njtierney] and I adapted this concept in a paper about [data sharing][sciencedirect]*. Here’s a [direct link][els-cdn] to our figure.
 - On the topic of software being retired, here is a series of posts ([part 1][org/r/2022/04/12/evolution], [part 2][org/r/2022/12/14/evolution2], [part 3][org/r/2023/04/10/evolution3]) about rgdal and other tools in the R spatial suite being retired in fall 2023 because the core maintainer is retiring and the stack has been replaced by something better. Note all the steps being taken to retire this responsibly 
 > “ We describe where their functionality will go, what package maintainers can or should do, and which steps we will take to minimize the impact on dependent packages and on reproducibility in general.”
