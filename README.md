@@ -1,6 +1,6 @@
 # How to enable and sustain thriving Open Source Ecosystems (OSE)
 
-[![][imgur]](https://inundata.org/talks/csvconf/#/0/3)
+[![][imgur]](https://inundata.org/talks/csvconf/)
 
 *[Slides][inundata] from a keynote presentation at [CSV Conf 2023][csvconf] in Buenos Aires, Argentina. April 19th, 2023*
 ## Abstract
