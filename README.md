@@ -104,5 +104,5 @@ Questions or comments are welcome at karthik dot ram at gmail.
 [theoj]: https://joss.theoj.org/papers/10.21105/joss.01686
 [r-spatial]: https://r-spatial.org/book/
 [csvconf]: https://csvconf.com/
-[inundata]: https://inundata.org/talks/csvconf/#/0/3
+[inundata]: https://inundata.org/talks/csvconf/
 [imgur]: https://i.imgur.com/VjeqIqr.jpg
